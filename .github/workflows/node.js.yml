@@ -14,4 +14,4 @@ jobs:
         server: ftp://31.220.110.118
         username: u605642685.deploy_sa
         password: ${{ secrets.password }}
-        local-dir: ./dist/truz-ng/
+        local-dir: ./truz-ng/
